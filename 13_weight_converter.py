@@ -1,0 +1,1 @@
+Weight = input('Weight:  ')
